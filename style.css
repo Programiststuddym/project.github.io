@@ -1,0 +1,125 @@
+@font-face{
+	font-family: "font";
+	src: url("./Шрифты/font.woff2") format("woff2");
+}
+
+.page{
+  font-family: "Montserrat", "Arial", sans-serif;
+  background: grey;
+}
+
+.block{
+	width: 1366px;
+	height: 768px;
+	margin: auto;
+	background: white;
+}
+
+.Logo{
+	margin-left: 102px;
+	margin-top: 47px;
+}
+
+.Service{
+	width: 80px;
+	height: 128px;
+	margin-left: 103px;
+	margin-top: 36px;
+}
+
+
+.create-line{ 
+	width: 15px; 
+	border: 1px solid black;
+	margin-top: 8px;
+
+}
+.Home{
+	width: 50px;
+	height: 20px;
+	font-weight: 500;
+	font-size: 16px;
+	margin-left: 29px;
+	margin-top: -12px;
+}
+
+.Services{
+	font-weight: 500;
+	font-size: 16px;
+}
+
+.Our__Work{
+	font-weight: 500;
+	font-size: 16px;
+}
+
+.Clients{
+	font-weight: 500;
+	font-size: 16px;
+}
+
+.about{
+	width: 462px;
+	height: 322px;
+	margin-top: 117px;
+	margin-left: 102px;
+}
+
+.big__text{
+	width: 361px;
+	height: 164px;
+}
+
+.text{
+	font-family: font;
+	font-weight: 600;
+	font-size: 68px;
+	line-height: 81px;
+	margin-top: 0px;
+	font-size: 68px;
+	font-weight: 400;
+}
+
+.about__text{
+	width: 462px;
+	height: 40px;
+	margin-top: 32px;
+}
+
+.about__mini__text{
+	font-weight: 500;
+	font-size: 16px;
+	margin-top: 0px;
+}
+
+.contact{
+	width: 126px;
+	height: 45px;
+	margin-left: 1px;
+	background: #048ECB;
+	margin-top: 39px;
+}
+
+.contact__text{
+	width: 79px;
+	height: 17px;
+	font-weight: 500;
+	font-size: 14px;
+	color: white;
+	padding-top: 14px;
+	padding-left: 24px;
+}
+
+.Work{
+	width: 79px;
+	height: 20px;
+	margin-left: 140px;
+	margin-top: -35px;
+}
+
+.Picture{
+	width: 676px;
+	height: 768px;
+	margin-left: 588px;
+	margin-top: -679.5px;
+}
